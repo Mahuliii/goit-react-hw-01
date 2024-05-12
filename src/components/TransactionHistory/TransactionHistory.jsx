@@ -1,6 +1,7 @@
 export default function TransactionHistory({ items }) {
   return (
     <div>
+      <h2>Task Transaction History</h2>
       <table>
         <thead>
           <tr>
